@@ -1,7 +1,7 @@
 # THANKS TO Al Sweigart al@inventwithpython.com
 # designer: Tawei Chiang, Cheng Zhang
 # programmer: Xuechi Li
-# graphic artist: LIngshu Yang
+# graphic artist: Lingshu Yang
 # audio artist: Tian Zhou
 # from March to April in 2013
 # last edit: Jan 30, 2014
